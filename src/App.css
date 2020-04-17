@@ -403,6 +403,7 @@ color: white;
       display: none;
       padding: 0% 5% 5%;
       background: #fff;
+      text-align: justify;
     }
 
 .panel p{
